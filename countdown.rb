@@ -6,7 +6,7 @@ def countdown(n)
   end
 return "HAPPY NEW YEAR!"
 end
-def countdown_with_sleep
+def countdown_with_sleep(sleep)
     while n > 0
     sleep(5.second)
   end
